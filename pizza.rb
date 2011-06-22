@@ -27,3 +27,11 @@ post '/' do
     
     'Bestellung erfolgreich eingetragen. Noch eine Bestellung? <a href=".">Hier klicken.</a>'
 end
+
+get '/list/complete' do
+    return "<pre>" + File.open("bestellungen.txt", "r") {|f| f.read } + "</pre>"
+end
+
+get '/list/short' do
+    return "<pre>" + File.open("bestellungen.txt", "r") {|f| f.readlines.select{|l| l[1]==32}}.join + "</pre>"
+end
