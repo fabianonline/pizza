@@ -1,151 +1,151 @@
-"Pizza";1;" Salami";" Salami";" klein";300
-"Pizza";1;" Salami";" Salami";" mittel";450
-"Pizza";1;" Salami";" Salami";" gross";550
-"Pizza";2;" Prosciutto";" Schinken";" klein";300
-"Pizza";2;" Prosciutto";" Schinken";" mittel";450
-"Pizza";2;" Prosciutto";" Schinken";" gross";550
-"Pizza";3;" Bolognese";" Fleischsauce";" klein";300
-"Pizza";3;" Bolognese";" Fleischsauce";" mittel";450
-"Pizza";3;" Bolognese";" Fleischsauce";" gross";550
-"Pizza";4;" Ajit";" Schinken, frische Champignons";" klein";300
-"Pizza";4;" Ajit";" Schinken, frische Champignons";" mittel";450
-"Pizza";4;" Ajit";" Schinken, frische Champignons";" gross";600
-"Pizza";5;" Marinara";" Thunfisch, Zwiebeln";" klein";400
-"Pizza";5;" Marinara";" Thunfisch, Zwiebeln";" mittel";500
-"Pizza";5;" Marinara";" Thunfisch, Zwiebeln";" gross";600
-"Pizza";6;" Toscana";" Schinken, Salami";" klein";400
-"Pizza";6;" Toscana";" Schinken, Salami";" mittel";500
-"Pizza";6;" Toscana";" Schinken, Salami";" gross";600
-"Pizza";7;" Hawaii";" Schinken, Ananas";" klein";400
-"Pizza";7;" Hawaii";" Schinken, Ananas";" mittel";500
-"Pizza";7;" Hawaii";" Schinken, Ananas";" gross";600
-"Pizza";8;" Sami";" Schinken, Thunfisch";" klein";400
-"Pizza";8;" Sami";" Schinken, Thunfisch";" mittel";500
-"Pizza";8;" Sami";" Schinken, Thunfisch";" gross";600
-"Pizza";9;" Don Camillo";" Schinken, frischer Spinat, Oliven";" klein";400
-"Pizza";9;" Don Camillo";" Schinken, frischer Spinat, Oliven";" mittel";500
-"Pizza";9;" Don Camillo";" Schinken, frischer Spinat, Oliven";" gross";600
-"Pizza";10;" Jaspal";" Thunfisch, Schinken, Champignons";" klein";450
-"Pizza";10;" Jaspal";" Thunfisch, Schinken, Champignons";" mittel";550
-"Pizza";10;" Jaspal";" Thunfisch, Schinken, Champignons";" gross";650
-"Pizza";11;" Toni";" Schinken, Salami, Champignons";" klein";450
-"Pizza";11;" Toni";" Schinken, Salami, Champignons";" mittel";550
-"Pizza";11;" Toni";" Schinken, Salami, Champignons";" gross";600
-"Pizza";12;" Calzone";" Schinken, Salami, Champignons";" klein";450
-"Pizza";12;" Calzone";" Schinken, Salami, Champignons";" mittel";550
-"Pizza";12;" Calzone";" Schinken, Salami, Champignons";" gross";650
-"Pizza";13;" Enrico";" Schinken, Salami, Champignons, gekochtes Ei, Oliven";" klein";400
-"Pizza";13;" Enrico";" Schinken, Salami, Champignons, gekochtes Ei, Oliven";" mittel";600
-"Pizza";13;" Enrico";" Schinken, Salami, Champignons, gekochtes Ei, Oliven";" gross";650
-"Pizza";14;" Quattro Stagiono";" Schinken, Salami, Champignons, Paprika";" klein";450
-"Pizza";14;" Quattro Stagiono";" Schinken, Salami, Champignons, Paprika";" mittel";550
-"Pizza";14;" Quattro Stagiono";" Schinken, Salami, Champignons, Paprika";" gross";650
-"Pizza";15;" Capricciosa";" Schinken, Thunfisch, Artischocken, Spargel";" klein";450
-"Pizza";15;" Capricciosa";" Schinken, Thunfisch, Artischocken, Spargel";" mittel";550
-"Pizza";15;" Capricciosa";" Schinken, Thunfisch, Artischocken, Spargel";" gross";650
-"Pizza";16;" Tinko";" Schinken, Salami, Spiegelei, Peperoni";" klein";450
-"Pizza";16;" Tinko";" Schinken, Salami, Spiegelei, Peperoni";" mittel";550
-"Pizza";16;" Tinko";" Schinken, Salami, Spiegelei, Peperoni";" gross";650
-"Pizza";17;" Gamberetti";" Krabben, Knoblauch";" klein";450
-"Pizza";17;" Gamberetti";" Krabben, Knoblauch";" mittel";550
-"Pizza";17;" Gamberetti";" Krabben, Knoblauch";" gross";650
-"Pizza";18;" Frutti di Mare";" Meeresfruechte, Knoblauch";" klein";450
-"Pizza";18;" Frutti di Mare";" Meeresfruechte, Knoblauch";" mittel";550
-"Pizza";18;" Frutti di Mare";" Meeresfruechte, Knoblauch";" gross";650
-"Pizza";19;" Fantasia";" Schinken, Salami, Champignons, Artischocken, Thunfisch";" klein";450
-"Pizza";19;" Fantasia";" Schinken, Salami, Champignons, Artischocken, Thunfisch";" mittel";550
-"Pizza";19;" Fantasia";" Schinken, Salami, Champignons, Artischocken, Thunfisch";" gross";650
-"Pizza";20;" Solino";" bis zu 5 Belaege nach Wahl";" klein";450
-"Pizza";20;" Solino";" bis zu 5 Belaege nach Wahl";" mittel";550
-"Pizza";20;" Solino";" bis zu 5 Belaege nach Wahl";" gross";650
-"Pizza";21;" Spaghetti";" Bolognesesauce";" klein";350
-"Pizza";21;" Spaghetti";" Bolognesesauce";" mittel";450
-"Pizza";21;" Spaghetti";" Bolognesesauce";" gross";600
-"Pizza";22;" Diavolo";" Salami, Champignons, Paprika, Peperoni scharf";" klein";450
-"Pizza";22;" Diavolo";" Salami, Champignons, Paprika, Peperoni scharf";" mittel";550
-"Pizza";22;" Diavolo";" Salami, Champignons, Paprika, Peperoni scharf";" gross";650
-"Pizza";23;" Rosaria";" Kartoffeln, Schafskaese";" klein";450
-"Pizza";23;" Rosaria";" Kartoffeln, Schafskaese";" mittel";550
-"Pizza";23;" Rosaria";" Kartoffeln, Schafskaese";" gross";650
-"Pizza";24;" Pene";" Haehnchen, Champignons";" klein";450
-"Pizza";24;" Pene";" Haehnchen, Champignons";" mittel";550
-"Pizza";24;" Pene";" Haehnchen, Champignons";" gross";650
-"Pizza";30;" Margarita";" Tomatensauce, Kaese";" klein";250
-"Pizza";30;" Margarita";" Tomatensauce, Kaese";" mittel";350
-"Pizza";30;" Margarita";" Tomatensauce, Kaese";" gross";450
-"Pizza";31;" Cipolla";" Zwiebeln";" klein";300
-"Pizza";31;" Cipolla";" Zwiebeln";" mittel";400
-"Pizza";31;" Cipolla";" Zwiebeln";" gross";450
-"Pizza";32;" Funghi";" frische Champignons";" klein";300
-"Pizza";32;" Funghi";" frische Champignons";" mittel";450
-"Pizza";32;" Funghi";" frische Champignons";" gross";550
-"Pizza";33;" Spinat";" frischer Spinat, Knoblauch";" klein";350
-"Pizza";33;" Spinat";" frischer Spinat, Knoblauch";" mittel";450
-"Pizza";33;" Spinat";" frischer Spinat, Knoblauch";" gross";550
-"Pizza";34;" Paprika";" frische Paprika, Knoblauch";" klein";350
-"Pizza";34;" Paprika";" frische Paprika, Knoblauch";" mittel";450
-"Pizza";34;" Paprika";" frische Paprika, Knoblauch";" gross";550
-"Pizza";35;" Soja";" Soja, Zwiebeln, Peperoni";" klein";350
-"Pizza";35;" Soja";" Soja, Zwiebeln, Peperoni";" mittel";450
-"Pizza";35;" Soja";" Soja, Zwiebeln, Peperoni";" gross";550
-"Pizza";36;" Romana";" Schafskaese, Oliven, Peperoni";" klein";350
-"Pizza";36;" Romana";" Schafskaese, Oliven, Peperoni";" mittel";450
-"Pizza";36;" Romana";" Schafskaese, Oliven, Peperoni";" gross";550
-"Pizza";37;" Rana";" Broccoli, frische Paprika, Spinat, Zwiebeln, Peperoni";" klein";400
-"Pizza";37;" Rana";" Broccoli, frische Paprika, Spinat, Zwiebeln, Peperoni";" mittel";500
-"Pizza";37;" Rana";" Broccoli, frische Paprika, Spinat, Zwiebeln, Peperoni";" gross";600
-"Pizzabroetchen";"PB1";" Kaese";" Kaese";" ";150
-"Pizzabroetchen";"PB2";" Zwiebeln";" Zwiebeln";" ";150
-"Pizzabroetchen";"PB3";" Salami, Kaese";" Salami, Kaese";" ";200
-"Pizzabroetchen";"PB4";" Schinken, Kaese";" Schinken, Kaese";" ";200
-"Pizzabroetchen";"PB5";" Paprika, Kaese";" Paprika, Kaese";" ";200
-"Pizzabroetchen";"PB6";" Champignons, Kaese";" Champignons, Kaese";" ";200
-"Pizzabroetchen";"PB7";" Thunfisch, Kaese";" Thunfisch, Kaese";" ";200
-"Pizzabroetchen";"PB8";" Krabben, Kaese";" Krabben, Kaese";" ";200
-"Pizzabroetchen";"PB9";" Ananas, Kaese";" Ananas, Kaese";" ";200
-"Pizzabroetchen";"PB10";" Spinat, Kaese";" Spinat, Kaese";" ";200
-"Kartoffeln";46;" Kraeterquark";" Butter, Kraeuterquark";" ";350
-"Kartoffeln";47;" Kuemmel";" Butter, Kuemmel";" ";300
-"Kartoffeln";48;" Knoblauchsauce";" Butter, Knoblauchsauce";" ";350
-"Kartoffeln";49;" Kaese";" Butter, Kaese";" ";350
-"Kartoffeln";51;" Krabbencocktail";" Butter, Krabbencocktail";" ";500
-"Kartoffeln";52;" Kraeuterbutter";" Kraeuterbutter";" ";350
-"Kartoffeln";53;" Butter, Sojaeiweiss, Salat, Tomaten, Sauce";" Butter, Sojaeiweiss, Salat, Tomaten, Sauce";" ";400
-"Vegetarisch";60;" Arabic";" Weizenbrot mit Sojaeiweiss, Tomaten, Salat, Zwiebeln, Sauce";" ";400
-"Vegetarisch";61;" Falafel";" Weizenbrot mit Zwiebeln, Petersilie, Tomaten, Salat, Kichererbsen, Sesam-Paste";" ";400
-"Vegetarisch";62;" Orientalische Ratatouille";" Gemuesekombination, ueberbacken mit Schafskaese und einer Safran-Tomatensauce, dazu Basmati-Reis";" ";700
-"Vegetarisch";63;" Nargesi";" Spinat-Ei-Pueree mit Basmati-Reis";" ";700
-"Vegetarisch";64;" Mirza Ghasemi";" Auberginen-Tomaten-Ei-Knoblauch-Pueree mit Basmati-Reis";" ";700
-"Vegetarisch";66;" Koreschte Curry";" Sojaeiweiss mit marinierten Fruechten in einer scharfen Curry-Sauce dazu Basmati-Reis";" ";750
-"Spaghetti";70;" Spaghetti Napoli";" Tomatensauce";" ";450
-"Spaghetti";71;" Spaghetti Tonna";" Tomatensauce, Thunfisch, Zwiebeln";" ";550
-"Spaghetti";72;" Spaghetti Carbonara";" Schinken, Sahne, Ei";" ";550
-"Spaghetti";73;" Spaghetti Bolognese";" Fleischsauce";" ";550
-"Spaghetti";74;" Spaghetti Frutti di Mare";" Tomatensauce, Meeresfruechte";" ";600
-"Spaghetti";75;" Spaghetti Chef";" Schinken, Champignons, Sahne, Ei";" ";550
-"Rigatoni";80;" Rigatoni al Forno";" Schinken, Sahnesauce";" ";500
-"Rigatoni";81;" Rigatoni Nola";" Schinken, Zwiebeln, Tomatensauce (scharf)";" ";550
-"Rigatoni";82;" Rigatoni Broccoli";" Schinken, Broccoli, Sahne, Tomatensauce, Kaese ueberbacken";" ";550
-"Tortellini";84;" Tortellini alla Panna";" Schinken, Sahnesauce";" ";550
-"Tortellini";85;" Tortellini alla Chef";" Schinken, Sahne, Champignons, Zwiebeln";" ";650
-"Tortellini";86;" Tortellini Bolognese";" Schinken, Broccoli, Fleischsauce, Sahne, Kaese ueberbacken";" ";650
-"Tortellini";87;" Tortellini Spinaci";" Schinken, Spinat, Sahne, Tomatensauce, Kaese ueberbacken";" ";650
-"Tortellini";88;" Tortellini al Casa";" Schinken, Sahne, Tomatensauce, Kaese ueberbacken, Champignons";" ";650
-"Tagliatelle";90;" Tagliatelle Napoli";" Tomatensauce";" ";450
-"Tagliatelle";91;" Tagliatelle Bolognese";" Fleischsauce";" ";550
-"Tagliatelle";92;" Tagliatelle Carbonara";" Schinken, Sahne, Kaese, Ei";" ";550
-"Tagliatelle";93;" Tagliatelle Verde";" Schinken, Spinat, Sahne, Ei";" ";550
-"Tagliatelle";94;" Tagliatelle Broccoli";" Schinken, Broccoli, Sahne, Champignons";" ";550
-"Tagliatelle";95;" Lasagne";" Breite Nudeln mit Schinken, Sahne, Fleischsauce, Ei, Kaese ueberbacken";" ";550
-"Tagliatelle";96;" Tris Nudeln";" 3 verschiedene Nudelsorten mit Schinken, Champignons, Fleischsauce, Sahne, Kaese ueberbacken";" ";550
-"Salate";100;" Gemischter Salat";" Eisbergsalat, Tomaten, Gurken, Mais, Moehren";"  ";450
-"Salate";101;" Thunfischsalat";" Eisbergsalat, Tomaten, Gurken, Mais, Moehren, Thunfisch";" ";550
-"Salate";102;" Solino-Salat";" Eisbergsalat, Tomaten, Gurken, Schafskaese, Zwiebeln, Oliven, Peperoni";" ";550
-"Salate";103;" Italienischer Salat";" Eisbergsalat, Tomaten, Gurken, Mais, Moehren, Kaese, Schinken, Ei";" ";550
-"Salate";104;" Capricciose-Salat";" Eisbergsalat, Tomaten, Gurken, Mais, Moehren, Kaese, Thunfisch, Ei, Artischocken, Oliven, Peperoni";" ";650
-"Baguettes";110;" Ei";" Eisbergsalat, Tomaten, Ei, Remulade";" ";350
-"Baguettes";111;" Kaese";" Eisbergsalat, Tomaten, Kaese, Remulade";" ";350
-"Baguettes";112;" Schinken";" Eisbergsalat, Tomaten, Kaese, Schinken, Remulade";" ";450
-"Baguettes";113;" Salami";" Eisbergsalat, Tomaten, Kaese, Salami, Remulade";" ";450
-"Baguettes";114;" Thunfisch";" Eisbergsalat, Tomaten, Kaese, Thunfisch, Remulade";" ";450
-"Baguettes";115;" Haehnchenbrust";" Eisbergsalat, Tomaten, Kaese, Haehnchenbrust, Remulade";" ";450
+"Pizza";1;"Salami";"Salami";"klein";300
+"Pizza";1;"Salami";"Salami";"mittel";450
+"Pizza";1;"Salami";"Salami";"gross";550
+"Pizza";2;"Prosciutto";"Schinken";"klein";300
+"Pizza";2;"Prosciutto";"Schinken";"mittel";450
+"Pizza";2;"Prosciutto";"Schinken";"gross";550
+"Pizza";3;"Bolognese";"Fleischsauce";"klein";300
+"Pizza";3;"Bolognese";"Fleischsauce";"mittel";450
+"Pizza";3;"Bolognese";"Fleischsauce";"gross";550
+"Pizza";4;"Ajit";"Schinken, frische Champignons";"klein";300
+"Pizza";4;"Ajit";"Schinken, frische Champignons";"mittel";450
+"Pizza";4;"Ajit";"Schinken, frische Champignons";"gross";600
+"Pizza";5;"Marinara";"Thunfisch, Zwiebeln";"klein";400
+"Pizza";5;"Marinara";"Thunfisch, Zwiebeln";"mittel";500
+"Pizza";5;"Marinara";"Thunfisch, Zwiebeln";"gross";600
+"Pizza";6;"Toscana";"Schinken, Salami";"klein";400
+"Pizza";6;"Toscana";"Schinken, Salami";"mittel";500
+"Pizza";6;"Toscana";"Schinken, Salami";"gross";600
+"Pizza";7;"Hawaii";"Schinken, Ananas";"klein";400
+"Pizza";7;"Hawaii";"Schinken, Ananas";"mittel";500
+"Pizza";7;"Hawaii";"Schinken, Ananas";"gross";600
+"Pizza";8;"Sami";"Schinken, Thunfisch";"klein";400
+"Pizza";8;"Sami";"Schinken, Thunfisch";"mittel";500
+"Pizza";8;"Sami";"Schinken, Thunfisch";"gross";600
+"Pizza";9;"Don Camillo";"Schinken, frischer Spinat, Oliven";"klein";400
+"Pizza";9;"Don Camillo";"Schinken, frischer Spinat, Oliven";"mittel";500
+"Pizza";9;"Don Camillo";"Schinken, frischer Spinat, Oliven";"gross";600
+"Pizza";10;"Jaspal";"Thunfisch, Schinken, Champignons";"klein";450
+"Pizza";10;"Jaspal";"Thunfisch, Schinken, Champignons";"mittel";550
+"Pizza";10;"Jaspal";"Thunfisch, Schinken, Champignons";"gross";650
+"Pizza";11;"Toni";"Schinken, Salami, Champignons";"klein";450
+"Pizza";11;"Toni";"Schinken, Salami, Champignons";"mittel";550
+"Pizza";11;"Toni";"Schinken, Salami, Champignons";"gross";600
+"Pizza";12;"Calzone";"Schinken, Salami, Champignons";"klein";450
+"Pizza";12;"Calzone";"Schinken, Salami, Champignons";"mittel";550
+"Pizza";12;"Calzone";"Schinken, Salami, Champignons";"gross";650
+"Pizza";13;"Enrico";"Schinken, Salami, Champignons, gekochtes Ei, Oliven";"klein";400
+"Pizza";13;"Enrico";"Schinken, Salami, Champignons, gekochtes Ei, Oliven";"mittel";600
+"Pizza";13;"Enrico";"Schinken, Salami, Champignons, gekochtes Ei, Oliven";"gross";650
+"Pizza";14;"Quattro Stagiono";"Schinken, Salami, Champignons, Paprika";"klein";450
+"Pizza";14;"Quattro Stagiono";"Schinken, Salami, Champignons, Paprika";"mittel";550
+"Pizza";14;"Quattro Stagiono";"Schinken, Salami, Champignons, Paprika";"gross";650
+"Pizza";15;"Capricciosa";"Schinken, Thunfisch, Artischocken, Spargel";"klein";450
+"Pizza";15;"Capricciosa";"Schinken, Thunfisch, Artischocken, Spargel";"mittel";550
+"Pizza";15;"Capricciosa";"Schinken, Thunfisch, Artischocken, Spargel";"gross";650
+"Pizza";16;"Tinko";"Schinken, Salami, Spiegelei, Peperoni";"klein";450
+"Pizza";16;"Tinko";"Schinken, Salami, Spiegelei, Peperoni";"mittel";550
+"Pizza";16;"Tinko";"Schinken, Salami, Spiegelei, Peperoni";"gross";650
+"Pizza";17;"Gamberetti";"Krabben, Knoblauch";"klein";450
+"Pizza";17;"Gamberetti";"Krabben, Knoblauch";"mittel";550
+"Pizza";17;"Gamberetti";"Krabben, Knoblauch";"gross";650
+"Pizza";18;"Frutti di Mare";"Meeresfruechte, Knoblauch";"klein";450
+"Pizza";18;"Frutti di Mare";"Meeresfruechte, Knoblauch";"mittel";550
+"Pizza";18;"Frutti di Mare";"Meeresfruechte, Knoblauch";"gross";650
+"Pizza";19;"Fantasia";"Schinken, Salami, Champignons, Artischocken, Thunfisch";"klein";450
+"Pizza";19;"Fantasia";"Schinken, Salami, Champignons, Artischocken, Thunfisch";"mittel";550
+"Pizza";19;"Fantasia";"Schinken, Salami, Champignons, Artischocken, Thunfisch";"gross";650
+"Pizza";20;"Solino";"bis zu 5 Belaege nach Wahl";"klein";450
+"Pizza";20;"Solino";"bis zu 5 Belaege nach Wahl";"mittel";550
+"Pizza";20;"Solino";"bis zu 5 Belaege nach Wahl";"gross";650
+"Pizza";21;"Spaghetti";"Bolognesesauce";"klein";350
+"Pizza";21;"Spaghetti";"Bolognesesauce";"mittel";450
+"Pizza";21;"Spaghetti";"Bolognesesauce";"gross";600
+"Pizza";22;"Diavolo";"Salami, Champignons, Paprika, Peperoni scharf";"klein";450
+"Pizza";22;"Diavolo";"Salami, Champignons, Paprika, Peperoni scharf";"mittel";550
+"Pizza";22;"Diavolo";"Salami, Champignons, Paprika, Peperoni scharf";"gross";650
+"Pizza";23;"Rosaria";"Kartoffeln, Schafskaese";"klein";450
+"Pizza";23;"Rosaria";"Kartoffeln, Schafskaese";"mittel";550
+"Pizza";23;"Rosaria";"Kartoffeln, Schafskaese";"gross";650
+"Pizza";24;"Pene";"Haehnchen, Champignons";"klein";450
+"Pizza";24;"Pene";"Haehnchen, Champignons";"mittel";550
+"Pizza";24;"Pene";"Haehnchen, Champignons";"gross";650
+"Pizza";30;"Margarita";"Tomatensauce, Kaese";"klein";250
+"Pizza";30;"Margarita";"Tomatensauce, Kaese";"mittel";350
+"Pizza";30;"Margarita";"Tomatensauce, Kaese";"gross";450
+"Pizza";31;"Cipolla";"Zwiebeln";"klein";300
+"Pizza";31;"Cipolla";"Zwiebeln";"mittel";400
+"Pizza";31;"Cipolla";"Zwiebeln";"gross";450
+"Pizza";32;"Funghi";"frische Champignons";"klein";300
+"Pizza";32;"Funghi";"frische Champignons";"mittel";450
+"Pizza";32;"Funghi";"frische Champignons";"gross";550
+"Pizza";33;"Spinat";"frischer Spinat, Knoblauch";"klein";350
+"Pizza";33;"Spinat";"frischer Spinat, Knoblauch";"mittel";450
+"Pizza";33;"Spinat";"frischer Spinat, Knoblauch";"gross";550
+"Pizza";34;"Paprika";"frische Paprika, Knoblauch";"klein";350
+"Pizza";34;"Paprika";"frische Paprika, Knoblauch";"mittel";450
+"Pizza";34;"Paprika";"frische Paprika, Knoblauch";"gross";550
+"Pizza";35;"Soja";"Soja, Zwiebeln, Peperoni";"klein";350
+"Pizza";35;"Soja";"Soja, Zwiebeln, Peperoni";"mittel";450
+"Pizza";35;"Soja";"Soja, Zwiebeln, Peperoni";"gross";550
+"Pizza";36;"Romana";"Schafskaese, Oliven, Peperoni";"klein";350
+"Pizza";36;"Romana";"Schafskaese, Oliven, Peperoni";"mittel";450
+"Pizza";36;"Romana";"Schafskaese, Oliven, Peperoni";"gross";550
+"Pizza";37;"Rana";"Broccoli, frische Paprika, Spinat, Zwiebeln, Peperoni";"klein";400
+"Pizza";37;"Rana";"Broccoli, frische Paprika, Spinat, Zwiebeln, Peperoni";"mittel";500
+"Pizza";37;"Rana";"Broccoli, frische Paprika, Spinat, Zwiebeln, Peperoni";"gross";600
+"Pizzabroetchen";"PB1";"Kaese";"Kaese";"";150
+"Pizzabroetchen";"PB2";"Zwiebeln";"Zwiebeln";"";150
+"Pizzabroetchen";"PB3";"Salami, Kaese";"Salami, Kaese";"";200
+"Pizzabroetchen";"PB4";"Schinken, Kaese";"Schinken, Kaese";"";200
+"Pizzabroetchen";"PB5";"Paprika, Kaese";"Paprika, Kaese";"";200
+"Pizzabroetchen";"PB6";"Champignons, Kaese";"Champignons, Kaese";"";200
+"Pizzabroetchen";"PB7";"Thunfisch, Kaese";"Thunfisch, Kaese";"";200
+"Pizzabroetchen";"PB8";"Krabben, Kaese";"Krabben, Kaese";"";200
+"Pizzabroetchen";"PB9";"Ananas, Kaese";"Ananas, Kaese";"";200
+"Pizzabroetchen";"PB10";"Spinat, Kaese";"Spinat, Kaese";"";200
+"Kartoffeln";46;"Kraeterquark";"Butter, Kraeuterquark";"";350
+"Kartoffeln";47;"Kuemmel";"Butter, Kuemmel";"";300
+"Kartoffeln";48;"Knoblauchsauce";"Butter, Knoblauchsauce";"";350
+"Kartoffeln";49;"Kaese";"Butter, Kaese";"";350
+"Kartoffeln";51;"Krabbencocktail";"Butter, Krabbencocktail";"";500
+"Kartoffeln";52;"Kraeuterbutter";"Kraeuterbutter";"";350
+"Kartoffeln";53;"Butter, Sojaeiweiss, Salat, Tomaten, Sauce";"Butter, Sojaeiweiss, Salat, Tomaten, Sauce";"";400
+"Vegetarisch";60;"Arabic";"Weizenbrot mit Sojaeiweiss, Tomaten, Salat, Zwiebeln, Sauce";"";400
+"Vegetarisch";61;"Falafel";"Weizenbrot mit Zwiebeln, Petersilie, Tomaten, Salat, Kichererbsen, Sesam-Paste";"";400
+"Vegetarisch";62;"Orientalische Ratatouille";"Gemuesekombination, ueberbacken mit Schafskaese und einer Safran-Tomatensauce, dazu Basmati-Reis";"";700
+"Vegetarisch";63;"Nargesi";"Spinat-Ei-Pueree mit Basmati-Reis";"";700
+"Vegetarisch";64;"Mirza Ghasemi";"Auberginen-Tomaten-Ei-Knoblauch-Pueree mit Basmati-Reis";"";700
+"Vegetarisch";66;"Koreschte Curry";"Sojaeiweiss mit marinierten Fruechten in einer scharfen Curry-Sauce dazu Basmati-Reis";"";750
+"Spaghetti";70;"Spaghetti Napoli";"Tomatensauce";"";450
+"Spaghetti";71;"Spaghetti Tonna";"Tomatensauce, Thunfisch, Zwiebeln";"";550
+"Spaghetti";72;"Spaghetti Carbonara";"Schinken, Sahne, Ei";"";550
+"Spaghetti";73;"Spaghetti Bolognese";"Fleischsauce";"";550
+"Spaghetti";74;"Spaghetti Frutti di Mare";"Tomatensauce, Meeresfruechte";"";600
+"Spaghetti";75;"Spaghetti Chef";"Schinken, Champignons, Sahne, Ei";"";550
+"Rigatoni";80;"Rigatoni al Forno";"Schinken, Sahnesauce";"";500
+"Rigatoni";81;"Rigatoni Nola";"Schinken, Zwiebeln, Tomatensauce (scharf)";"";550
+"Rigatoni";82;"Rigatoni Broccoli";"Schinken, Broccoli, Sahne, Tomatensauce, Kaese ueberbacken";"";550
+"Tortellini";84;"Tortellini alla Panna";"Schinken, Sahnesauce";"";550
+"Tortellini";85;"Tortellini alla Chef";"Schinken, Sahne, Champignons, Zwiebeln";"";650
+"Tortellini";86;"Tortellini Bolognese";"Schinken, Broccoli, Fleischsauce, Sahne, Kaese ueberbacken";"";650
+"Tortellini";87;"Tortellini Spinaci";"Schinken, Spinat, Sahne, Tomatensauce, Kaese ueberbacken";"";650
+"Tortellini";88;"Tortellini al Casa";"Schinken, Sahne, Tomatensauce, Kaese ueberbacken, Champignons";"";650
+"Tagliatelle";90;"Tagliatelle Napoli";"Tomatensauce";"";450
+"Tagliatelle";91;"Tagliatelle Bolognese";"Fleischsauce";"";550
+"Tagliatelle";92;"Tagliatelle Carbonara";"Schinken, Sahne, Kaese, Ei";"";550
+"Tagliatelle";93;"Tagliatelle Verde";"Schinken, Spinat, Sahne, Ei";"";550
+"Tagliatelle";94;"Tagliatelle Broccoli";"Schinken, Broccoli, Sahne, Champignons";"";550
+"Tagliatelle";95;"Lasagne";"Breite Nudeln mit Schinken, Sahne, Fleischsauce, Ei, Kaese ueberbacken";"";550
+"Tagliatelle";96;"Tris Nudeln";"3 verschiedene Nudelsorten mit Schinken, Champignons, Fleischsauce, Sahne, Kaese ueberbacken";"";550
+"Salate";100;"Gemischter Salat";"Eisbergsalat, Tomaten, Gurken, Mais, Moehren";" ";450
+"Salate";101;"Thunfischsalat";"Eisbergsalat, Tomaten, Gurken, Mais, Moehren, Thunfisch";"";550
+"Salate";102;"Solino-Salat";"Eisbergsalat, Tomaten, Gurken, Schafskaese, Zwiebeln, Oliven, Peperoni";"";550
+"Salate";103;"Italienischer Salat";"Eisbergsalat, Tomaten, Gurken, Mais, Moehren, Kaese, Schinken, Ei";"";550
+"Salate";104;"Capricciose-Salat";"Eisbergsalat, Tomaten, Gurken, Mais, Moehren, Kaese, Thunfisch, Ei, Artischocken, Oliven, Peperoni";"";650
+"Baguettes";110;"Ei";"Eisbergsalat, Tomaten, Ei, Remulade";"";350
+"Baguettes";111;"Kaese";"Eisbergsalat, Tomaten, Kaese, Remulade";"";350
+"Baguettes";112;"Schinken";"Eisbergsalat, Tomaten, Kaese, Schinken, Remulade";"";450
+"Baguettes";113;"Salami";"Eisbergsalat, Tomaten, Kaese, Salami, Remulade";"";450
+"Baguettes";114;"Thunfisch";"Eisbergsalat, Tomaten, Kaese, Thunfisch, Remulade";"";450
+"Baguettes";115;"Haehnchenbrust";"Eisbergsalat, Tomaten, Kaese, Haehnchenbrust, Remulade";"";450
