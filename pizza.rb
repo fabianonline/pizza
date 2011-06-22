@@ -35,3 +35,8 @@ end
 get '/list/short' do
     return "<pre>" + File.open("bestellungen.txt", "r") {|f| f.readlines.select{|l| l[1]==32}}.join + "</pre>"
 end
+
+get '/list/delete' do
+    File.open("bestellungen.txt", "w") {|f| }
+    "Datei erfolgreich geleert."
+end
