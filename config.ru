@@ -1,6 +1,6 @@
 require 'rubygems'
 require 'sinatra'
 
-require 'pizza'
+require './pizza'
 run Sinatra::Application
 

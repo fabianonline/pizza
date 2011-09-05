@@ -1,15 +1,15 @@
 require 'rubygems'
 require 'sinatra'
-require 'fastercsv'
+require 'csv'
 require 'erb'
 
 get '/' do
-    @pizza = FasterCSV.read("pizza.csv", {:col_sep=>';'})
+    @pizza = CSV.read("pizza.csv", {:col_sep=>';'})
     erb :index
 end
 
 post '/' do
-    pizzen = FasterCSV.read("pizza.csv", {:col_sep=>';'})
+    pizzen = CSV.read("pizza.csv", {:col_sep=>';'})
     return "Du hast eine komische Pizza-ID angegeben..." unless pizzen[params[:pizza_id].to_i]
     return "Bitte einen Namen angeben" if params[:name].empty?
     
