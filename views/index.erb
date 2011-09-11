@@ -1,36 +1,49 @@
-<form method="post" action="">
-<table>
-    <tr>
-        <th>Nummer</th>
-        <th>Name</th>
-        <th>Zutaten</th>
-        <th>Größe</th>
-        <th>Preis</th>
-        <th>&nbsp;</th>
-    </tr>
+<html>
+<head>
+	<title>Pizza-Bestell-Script</title>
+	</head>
+	<body>
+		<h1>Pizza-Bestell-Script</h1>
+		<form method="post" action="">
+			<table>
+				<tr>
+					<td valign="top">
+						Name: <input type="text" name="name" /><br />
+						Anm.: <input type="text" name="anmerkungen" /><br />
+						<input type="submit" value="Eintragen" />
+						<a href="list/complete"><input type="Button" value="Bestellung anzeigen"></a>
+						<a href="list/delete"><input type="Button" value="Bestellung löschen(!!)"></a>
+					</td>
+					<td>
+						<table>
+    						<tr>
+        						<th align="center">#</th>
+        						<th align="center">Name</th>
+        						<th align="center">Zutaten</th>
+        						<th align="center">Größe</th>
+        						<th align="center">Preis</th>
+        						<th align="center">&nbsp;</th>
+    						</tr>
     
-    <% old_p = nil %>
-    <% @pizza.each_with_index do |p, id| %>
-        <tr>
-            <% if old_p && p[1]==old_p[1] %>
-                <td colspan="3">&nbsp;</td>
-            <% else %>
-                <td><%= p[1] %></td>
-                <td><%= p[0] %> <%= p[2] %></td>
-                <td><%= p[3] %></td>
-            <% end %>
-            <td><%= p[4] %></td>
-            <td><%= p[5] %></td>
-            <td><input type="radio" name="pizza_id" value="<%= id %>" /></td>
-        </tr>
-        <% old_p = p %>
-    <% end %>
-</table>
-
-Dein Name: <input type="text" name="name" /><br />
-Anmerkungen: <input type="text" name="anmerkungen" /><br />
-Bitte keine super-komplexen Anmerkungen a la "Die 7 bitte ohne Knoblauch, dafür aber mit Ananas, aber nur, wenn die nicht in Ringen
-auf die Pizza kommen und nur mit gelbem Aufkleber sind". "Ohne Pilze" oder so ist aber in Ordnung.
-
-<input type="submit" value="Eintragen" />
+    						<% old_p = nil %>
+    						<% @pizza.each_with_index do |p, id| %>
+        					<tr>
+            				<% if old_p && p[1]==old_p[1] %>
+                			<td colspan="3">&nbsp;</td>
+            				<% else %>
+                			<td><%= p[1] %></td>
+                			<td><%= p[0] %> <%= p[2] %></td>
+                			<td><%= p[3] %></td>
+            				<% end %>
+            				<td><%= p[4] %></td>
+            				<td><%= p[5] %></td>
+            				<td><input type="radio" name="pizza_id" value="<%= id %>" /></td>
+        				</tr>
+        				<% old_p = p %>
+    					<% end %>
+					</table>
+				</td>
+			</table>
+	</body>
+</html>
 </form>

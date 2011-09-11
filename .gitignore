@@ -1,3 +1,4 @@
 tmp/restart.txt
 bestellungen.txt
-
+.htaccess
+wrapper.fcgi
